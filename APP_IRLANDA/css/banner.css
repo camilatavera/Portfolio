@@ -1,0 +1,82 @@
+
+
+#banner{
+    padding-top: 58px;
+}
+
+.sum_cont_banner{
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/descarga.jpg");
+    position: relative;
+
+    
+}
+
+.sum_sombra{
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    margin-left: 25vh;
+    margin-right: 25vh;
+    line-height: 10px;
+}
+
+
+
+.sum_sombra h1{
+
+    font-family: 'Permanent Marker', cursive;
+    color:rgb(4,165,41);
+    font-size: 200px;
+
+    animation-name: cambiar_color;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: reverse;
+   
+}
+
+
+.sum_sombra p{
+
+    font-family: 'Jost', sans-serif;
+    color: #fff;
+    font-size: 25px;
+    animation-name: aparece;
+    animation-delay: 1s;
+    animation-duration: 3s;
+    margin-top: 0;
+    line-height: 26px;
+
+}
+
+@media only screen and (max-width: 767px){
+
+    .sum_sombra{
+
+        margin-left: 0;
+        margin-right: 0;
+       
+
+    }
+
+    .sum_cont_banner{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+   
+
+    .sum_sombra h1{
+        font-size: 100px;
+    }
+}
+
+
