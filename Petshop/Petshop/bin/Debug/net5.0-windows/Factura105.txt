@@ -1,0 +1,34 @@
+DETALLES DE LA VENTA
+---------------------------------------- 
+
+
+Id venta: 105 
+Fecha: 10/5/2021 7:27:23 PM 
+-----------------------------------------------------------------
+ Hueso  $250*1 = 250
+-----------------------------------------------------------------PRODUCTO DEL SECTOR JUGUETES
+Id producto: 8
+Nombre: Hueso
+Precio por unidad: 250
+
+
+
+-----------------------------------------------------------------DATOS CLIENTE
+---------------------------------------
+
+Nombre: Maria
+Apellido: Lopez
+Telefono: 11238373
+Fecha de nacimiento: 2/5/2001 12:00:00 AM
+
+
+-----------------------------------------------------------------DATOS VENDEDOR
+------------------------------------------ 
+
+Nombre: Yenifer
+Apellido: Parker
+Telefono: 55522231
+Fecha de nacimiento: 4/4/2000 12:00:00 AM
+
+
+
